@@ -1,4 +1,6 @@
-#Instructions for using the replication file of the following publication: Hämäläinen, H., Tanskanen, A. O., Kääriäinen, J., & Danielsbacka, M.
+#Instructions for using the replication file of the following publication: 
+
+#Hämäläinen, H., Tanskanen, A. O., Kääriäinen, J., & Danielsbacka, M.
 Research note: Family structure and attitudes toward filial obligations 
 among younger and middle-aged adults. Journal of Family Research, 36, 178–191. 
 doi: https://doi.org/10.20377/jfr-972
